@@ -1066,6 +1066,7 @@ header nav .form i {
 	border: 1px solid #ccc;
 	margin-bottom: 25px;
 	border-radius: 5px;
+	outline:none;
 }
 
 .contact .content form textarea {
